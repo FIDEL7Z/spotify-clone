@@ -7,7 +7,6 @@ Este repositório contém o código-fonte para um clone simplificado da página 
 - **index.html:** Contém a estrutura da página web, incluindo o cabeçalho, seções principais e o rodapé.
 - **css/estilo.css:** Arquivo de estilo personalizado para complementar o Bootstrap.
 - **imagens/:** Diretório contendo as imagens utilizadas na página.
-- **README.md:** Este arquivo fornece uma visão geral do projeto.
 
 ## Tecnologias Utilizadas
 
